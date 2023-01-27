@@ -1,0 +1,27 @@
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.csprojAssemblyReference.cache
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.AssemblyInfo.cs
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.csproj.CoreCompileInputs.cache
+C:/Users/User/source/repos/123142/123142/bin/Debug/netcoreapp3.1/123142.exe
+C:/Users/User/source/repos/123142/123142/bin/Debug/netcoreapp3.1/123142.deps.json
+C:/Users/User/source/repos/123142/123142/bin/Debug/netcoreapp3.1/123142.runtimeconfig.json
+C:/Users/User/source/repos/123142/123142/bin/Debug/netcoreapp3.1/123142.runtimeconfig.dev.json
+C:/Users/User/source/repos/123142/123142/bin/Debug/netcoreapp3.1/123142.dll
+C:/Users/User/source/repos/123142/123142/bin/Debug/netcoreapp3.1/123142.pdb
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.dll
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.pdb
+C:/Users/User/source/repos/123142/123142/obj/Debug/netcoreapp3.1/123142.genruntimeconfig.cache
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/bin/Debug/netcoreapp3.1/Enumerator
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/bin/Debug/netcoreapp3.1/Enumerator.deps.json
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/bin/Debug/netcoreapp3.1/Enumerator.runtimeconfig.json
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/bin/Debug/netcoreapp3.1/Enumerator.runtimeconfig.dev.json
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/bin/Debug/netcoreapp3.1/Enumerator.dll
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/bin/Debug/netcoreapp3.1/Enumerator.pdb
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.csproj.AssemblyReference.cache
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.AssemblyInfoInputs.cache
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.AssemblyInfo.cs
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.csproj.CoreCompileInputs.cache
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.dll
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.pdb
+/Users/main/Desktop/Новая папка/GraphIterator-Enumerator--main/GraphIterator(Enumerator)/Enumerator/obj/Debug/netcoreapp3.1/Enumerator.genruntimeconfig.cache
